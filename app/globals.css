@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --font-inter: 'Inter', sans-serif;
+  --font-garamond: 'EB Garamond', serif;
+  --font-space-mono: 'Space Mono', monospace;
+}
+
+@theme {
+  --color-primary: #98D8C8;
+  --color-accent: #E6B8A2;
+  --color-background: #FFFFFF;
+  --color-foreground: #3D5A5B;
+  --color-highlight: #D4F1F4;
+}
+
+body {
+  background-color: theme('colors.background');
+  color: theme('colors.foreground');
+}
