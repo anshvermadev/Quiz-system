@@ -6,7 +6,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-A modern, fast, and interactive quiz platform built with **Next.js 16**, **React 19**, **Tailwind CSS v4**, and **Firebase (Firestore & Auth)**. It enables administrators to create, edit, and manage quizzes, track student submissions in real-time, view rich analytics and difficulty breakdowns, and automatically compile live leaderboards for E-Cell BVUDET Navi Mumbai events and competitions.
+Developed a modern, scalable quiz management platform using Next.js 16, React 19, Tailwind CSS v4, and Firebase. Built features for quiz creation, real-time participant tracking, automated evaluation, detailed analytics, difficulty-based performance insights, and live leaderboards. The platform was designed to support E-Cell BVUDET Navi Mumbai competitions, enabling efficient event management and delivering an interactive experience for hundreds of participants.
 
 ---
 
