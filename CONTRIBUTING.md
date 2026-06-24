@@ -18,7 +18,7 @@ First off, thank you for taking the time to contribute! Contributions make the o
 1. **Fork** the repository to your own account.
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/anshvermadev/Quiz-system.git
+   git clone https://github.com/YOUR_USERNAME/Quiz-system.git
    cd Quiz-system
    ```
 3. Create a **feature branch**:
